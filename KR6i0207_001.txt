@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:48.349863
+#+DATE: 2015-08-30 20:12:49.787313
 #+TITLE: 佛說大方等修多羅王經
 #+PROPERTY: CBETA_ID T14n0575
 #+PROPERTY: ID KR6i0207
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 575
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0207_T_000-0948b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0207_T_001-0948b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.575[Nos.576,577]¶
-
- 佛說大方等修多羅王經¶
+No. 575 [Nos. 576, 577]¶
+佛說大方等修多羅王經¶
 ¶
 後魏天竺三藏菩提流支譯¶
 
