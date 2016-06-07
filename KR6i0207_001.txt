@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:48.349863
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:54
 #+TITLE: 佛說大方等修多羅王經
 #+PROPERTY: CBETA_ID T14n0575
 #+PROPERTY: ID KR6i0207
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 575
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0207_T_000-0948b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0207_T_001-0948b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.575[Nos.576,577]¶
-
- 佛說大方等修多羅王經¶
+No. 575 [Nos. 576, 577]¶
+佛說大方等修多羅王經¶
 ¶
 後魏天竺三藏菩提流支譯¶
 
@@ -95,9 +94,9 @@ No.575[Nos.576,577]¶
 　非眼見於色，
 　意不覺諸法；¶
 　此是第一諦，
-　非世間所覺。」
+　非世間所覺。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說此經已，摩伽陀國頻婆娑羅王，¶
 一切世間天、人、阿修羅、揵闥婆等，聞佛所說，¶
